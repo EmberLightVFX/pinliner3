@@ -10,11 +10,10 @@ Tests for `pinliner` module.
 
 import unittest
 
-from pinliner import pinliner
+from pinliner3 import pinliner3
 
 
 class TestPinliner(unittest.TestCase):
-
     def setUp(self):
         pass
 
@@ -25,6 +24,7 @@ class TestPinliner(unittest.TestCase):
         pass
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     import sys
+
     sys.exit(unittest.main())

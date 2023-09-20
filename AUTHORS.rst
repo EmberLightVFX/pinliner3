@@ -5,7 +5,8 @@ Credits
 Development Lead
 ----------------
 
-* Gorka Eguileor <gorka@eguileor.com>
+* Jacob Danell <jacob@pip.emberlight.se>
+* Gorka Eguileor <gorka@eguileor.com> (pinliner)
 
 Contributors
 ------------
